@@ -1,7 +1,5 @@
 package code.lh.algorithm.leetcode.day01;
 
-import org.junit.Before;
-import org.junit.Test;
 
 /**
  * The type Solution.
@@ -103,9 +101,5 @@ class Solution {
 
     }
 
-    @Test
-    public void tets(){
-        return;
-    }
 
 }
