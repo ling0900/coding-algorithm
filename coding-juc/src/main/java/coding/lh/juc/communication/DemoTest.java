@@ -23,7 +23,7 @@ public class DemoTest extends BaseDemo{
 
     /**
      * The entry point of application.
-     *
+     * 异步转同步的测试方法！
      * @param args the input arguments
      */
     public static void main(String[] args) {
