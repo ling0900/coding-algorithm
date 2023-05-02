@@ -1,8 +1,9 @@
-package coding.lh.juc.communication;
+package coding.lh.juc.async2sync;
 
 /**
  * The type Demo 1.
  * @author menglinghao
+ * 用的synchronize这个锁实现的
  */
 public class DemoTest extends BaseDemo{
 

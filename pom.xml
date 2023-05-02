@@ -12,6 +12,7 @@
     <modules>
         <module>coding-leetcode</module>
         <module>coding-io</module>
+        <module>coding-jvm</module>
         <module>coding-juc</module>
     </modules>
 

@@ -1,4 +1,4 @@
-package coding.lh.juc.communication;
+package coding.lh.juc.async2sync;
 
 /**
  * The type Base demo.
@@ -13,7 +13,7 @@ public abstract class BaseDemo {
 
     /**
      * Callback.
-     *
+     * 这个回调方法里面主要是用来实现一个操作：通知调用方，线程通信的机制。
      * @param response the response
      */
     public abstract void callback(long response);
