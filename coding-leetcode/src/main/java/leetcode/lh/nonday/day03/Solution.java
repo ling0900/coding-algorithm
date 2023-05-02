@@ -1,4 +1,4 @@
-package code.lh.algorithm.leetcode.day03;
+package leetcode.lh.nonday.day03;
 
 class Solution {
     public static int[] searchRange(int[] nums, int target) {

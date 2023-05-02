@@ -1,4 +1,4 @@
-package code.lh.algorithm.leetcode.day02;
+package leetcode.lh.nonday.day02;
 
 import java.util.ArrayList;
 import java.util.HashMap;

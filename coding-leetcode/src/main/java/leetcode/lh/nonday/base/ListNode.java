@@ -1,4 +1,4 @@
-package code.lh.algorithm.leetcode.base;
+package leetcode.lh.nonday.base;
 
 public class ListNode {
     public int val;

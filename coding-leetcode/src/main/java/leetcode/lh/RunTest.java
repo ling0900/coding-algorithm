@@ -1,4 +1,4 @@
-package code.lh.algorithm.leetcode;
+package leetcode.lh;
 
 public class RunTest {
     public static void main(String[] args) {

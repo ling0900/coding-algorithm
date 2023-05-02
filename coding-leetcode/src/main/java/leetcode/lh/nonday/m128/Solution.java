@@ -1,4 +1,4 @@
-package code.lh.algorithm.leetcode.m128;
+package leetcode.lh.nonday.m128;
 
 import java.util.Arrays;
 import java.util.Map;

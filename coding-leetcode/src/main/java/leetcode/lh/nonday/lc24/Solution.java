@@ -1,6 +1,6 @@
-package code.lh.algorithm.leetcode.lc24;
+package leetcode.lh.nonday.lc24;
 
-import code.lh.algorithm.leetcode.base.ListNode;
+import leetcode.lh.nonday.base.ListNode;
 import org.junit.Test;
 
 /**
@@ -13,7 +13,7 @@ public class Solution {
      * @param head the head
      * @return the list node
      */
-    public  ListNode swapPairs(ListNode head) {
+    public ListNode swapPairs(ListNode head) {
 
         if (head == null || head.next == null) {
             return head;

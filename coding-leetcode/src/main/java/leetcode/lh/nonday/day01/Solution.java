@@ -1,4 +1,4 @@
-package code.lh.algorithm.leetcode.day01;
+package leetcode.lh.nonday.day01;
 
 
 /**
