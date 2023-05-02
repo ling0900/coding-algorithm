@@ -10,7 +10,6 @@
 
 	<groupId>code.lh.io</groupId>
 	<artifactId>coding-io</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
 
 	<dependencies>
 		<dependency>

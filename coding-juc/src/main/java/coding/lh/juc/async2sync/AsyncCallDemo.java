@@ -1,4 +1,6 @@
-package coding.lh.juc.communication;
+package coding.lh.juc.async2sync;
+
+import coding.lh.juc.async2sync.BaseDemo;
 
 import java.util.Random;
 import java.util.concurrent.ExecutorService;
