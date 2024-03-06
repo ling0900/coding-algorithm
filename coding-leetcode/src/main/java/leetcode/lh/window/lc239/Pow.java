@@ -8,9 +8,14 @@ public class Pow {
 
 
 
-    public static int solve(int k, int n) {
-        int res = 1;
-        int t = k;
+    public static double solve(int k, int n) {
+        double res = 1D;
+        double t = k;
+
+        boolean b = false;
+        if (n > 0) b = true;
+
+        n = Math.abs(n);
 
         while(n != 0) {
             if ((n & 1) != 0) {
@@ -18,6 +23,12 @@ public class Pow {
             }
             n >>= 1;
         }
-        return res;
+
+        if (b) {
+            return res;
+        } else {
+            return res;
+        }
+
     }
 }
