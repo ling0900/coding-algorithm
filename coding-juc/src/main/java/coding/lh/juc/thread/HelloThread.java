@@ -30,6 +30,8 @@ public class HelloThread extends Thread{
 
         helloThread.start();
         helloThread1.start();
+        // 思考下start方法都是做了什么？
         helloThread2.start();
+
     }
 }
