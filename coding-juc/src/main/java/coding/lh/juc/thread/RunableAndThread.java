@@ -1,21 +1,11 @@
 package coding.lh.juc.thread;
 
-import java.io.Closeable;
-import java.io.IOException;
-import java.util.BitSet;
-import java.util.concurrent.Executors;
-import java.util.concurrent.ThreadPoolExecutor;
-
 /**
  * The type Runable and thread.
  * 创建线程的两种方式
  */
-public class RunableAndThread extends Closeable {
+public class RunableAndThread {
 
-    @Override
-    public void close() throws IOException {
-
-    }
 
     /**
      * The type Based thread.
