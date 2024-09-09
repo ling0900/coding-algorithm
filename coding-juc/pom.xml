@@ -13,4 +13,12 @@
     <groupId>code.lh.juc</groupId>
     <artifactId>coding-juc</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.redisson</groupId>
+            <artifactId>redisson-spring-boot-starter</artifactId>
+            <version>3.20.0</version> <!-- 请根据需要选择合适的版本 -->
+        </dependency>
+    </dependencies>
+
 </project>

@@ -1,14 +1,11 @@
 package com.base01;
 
 public class InitializeDemo {
-    private static int k = 1;
-    //private static InitializeDemo t1 = new InitializeDemo("t1");
-    //private static InitializeDemo t2 = new InitializeDemo("t2");
     private static int i;
-    private static int n = 99;
+    private static int k = 1;
+    private static int n = 10;
 
     private int h = print("------------静态方法（属性）order_1------------");
-
 
     static {
         print("------------静态块------------");
@@ -31,7 +28,5 @@ public class InitializeDemo {
         n++;
         return ++i;
     }
-    public static void main(String args[]) {
-        new InitializeDemo("init");
-    }
+
 }

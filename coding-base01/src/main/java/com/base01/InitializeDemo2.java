@@ -7,7 +7,6 @@ public class InitializeDemo2 {
     private String s = new String("-----");
 
     static {
-        String s = "212";
         System.out.println("静态代码块：执行了");
         System.out.println("k=" + k + ", n=" + n + ", i=" + i);
     }
@@ -15,7 +14,6 @@ public class InitializeDemo2 {
     private int h = 2;
 
     {
-        String m = "000ppppppp";
         System.out.println("普通代码块：执行了");
         System.out.println(s);
     }
@@ -36,10 +34,4 @@ public class InitializeDemo2 {
         System.out.println("k=" + (k++) + ", n=" + n + ", i=" + i);
     }
 
-    public static void main(String[] args) {
-        InitializeDemo2 initializeDemo2 = new InitializeDemo2("");
-        initializeDemo2.m2();
-        m1();
-
-    }
 }
