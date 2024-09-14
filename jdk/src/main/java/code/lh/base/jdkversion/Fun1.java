@@ -1,4 +1,4 @@
-package code.lh.base.jdkversion;
+package kit.ling.jdkversion;
 
 @FunctionalInterface
 public interface Fun1 {

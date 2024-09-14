@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>code.lh.base</groupId>
+    <groupId>kit.ling</groupId>
     <artifactId>ling-kit</artifactId>
     <version>1.0.0</version>
 

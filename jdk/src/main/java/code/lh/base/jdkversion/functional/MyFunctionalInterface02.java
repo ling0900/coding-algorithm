@@ -1,4 +1,4 @@
-package code.lh.base.jdkversion.functional;
+package kit.ling.jdkversion.functional;
 
 import java.util.function.Function;
 

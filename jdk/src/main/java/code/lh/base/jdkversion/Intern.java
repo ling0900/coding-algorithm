@@ -1,4 +1,4 @@
-package code.lh.base.jdkversion;
+package kit.ling.jdkversion;
 
 public class Intern {
     public static void main(String[] args) {

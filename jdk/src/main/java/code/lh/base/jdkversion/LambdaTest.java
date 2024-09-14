@@ -1,4 +1,4 @@
-package code.lh.base.jdkversion;
+package kit.ling.jdkversion;
 
 import java.util.Arrays;
 import java.util.List;

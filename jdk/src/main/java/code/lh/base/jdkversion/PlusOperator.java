@@ -1,4 +1,4 @@
-package code.lh.base.jdkversion;
+package kit.ling.jdkversion;
 
 public class PlusOperator {
     public static void main(String[] args) {
