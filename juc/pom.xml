@@ -6,12 +6,12 @@
 
     <parent>
         <groupId>code.lh.base</groupId>
-        <artifactId>coding-base</artifactId>
+        <artifactId>ling-kit</artifactId>
         <version>1.0.0</version>
     </parent>
 
     <groupId>code.lh.juc</groupId>
-    <artifactId>coding-juc</artifactId>
+    <artifactId>juc</artifactId>
 
     <dependencies>
         <dependency>

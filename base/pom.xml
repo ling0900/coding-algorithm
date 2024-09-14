@@ -4,12 +4,12 @@
 
 	<parent>
 		<groupId>code.lh.base</groupId>
-		<artifactId>coding-base</artifactId>
+		<artifactId>ling-kit</artifactId>
 		<version>1.0.0</version>
 	</parent>
 
 	<groupId>code.lh.io</groupId>
-	<artifactId>coding-base01</artifactId>
+	<artifactId>base</artifactId>
 
 	<dependencies>
 		<dependency>

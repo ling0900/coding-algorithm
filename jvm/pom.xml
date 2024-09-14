@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>code.lh.base</groupId>
-        <artifactId>coding-base</artifactId>
+        <artifactId>ling-kit</artifactId>
         <version>1.0.0</version>
     </parent>
 
     <groupId>coding.lh.jvm</groupId>
-    <artifactId>coding-jvm</artifactId>
+    <artifactId>jvm</artifactId>
 
 </project>

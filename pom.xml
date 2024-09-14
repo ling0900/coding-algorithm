@@ -5,17 +5,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>code.lh.base</groupId>
-    <artifactId>coding-base</artifactId>
+    <artifactId>ling-kit</artifactId>
     <version>1.0.0</version>
 
     <packaging>pom</packaging>
     <modules>
-        <module>coding-leetcode</module>
-        <module>coding-io</module>
-        <module>coding-jvm</module>
-        <module>coding-juc</module>
-        <module>coding-base01</module>
-        <module>coding-jdk</module>
+        <module>algorithm</module>
+        <module>io</module>
+        <module>jvm</module>
+        <module>juc</module>
+        <module>base</module>
+        <module>jdk</module>
+        <module>lock</module>
     </modules>
 
     <properties>
