@@ -1,0 +1,4 @@
+rocketmq:
+  producer:
+    group: transaction_group
+  name-server: localhost:9876

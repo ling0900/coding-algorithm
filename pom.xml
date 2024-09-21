@@ -18,6 +18,7 @@
         <module>jdk</module>
         <module>lock</module>
         <module>distributed</module>
+        <module>mq</module>
     </modules>
 
     <properties>
