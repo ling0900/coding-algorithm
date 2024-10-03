@@ -18,6 +18,7 @@ public class NIOServer {
         ServerSocketChannel serverSocketChannel;
 
         try {
+
             // 打开选择器
             selector = Selector.open();
 
