@@ -11,6 +11,9 @@ public class OOMTest {
             person = null;
         }
         Thread.sleep(1000);
+        // 强制gc
+        System.gc();
+        Thread.sleep(1000);
         for (Person person : list) {
             System.out.println(person);
         }
